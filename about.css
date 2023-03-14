@@ -5,7 +5,7 @@
 }
 body{
     /* background-image: url("backk.jpg"); */
-    background-color: pink;
+    background-color:mintcream;
     background-size: cover;
     height: 1600px;
     
@@ -29,34 +29,24 @@ ul{
 }
 .container{
     width: 1000px;
-    height: 1500px;
-    border: solid 2px white;
+    height: 1000px;
+    border: solid 2px gray;
     margin-left: 200px;
     margin-top: 50px;
     box-shadow: 30px black;
 }
 .container .content{
     margin-left: 500px;
-    margin-top: 20px;
-    
-    
-}
-.container h1{
+    margin-top: 10px;
+    text-decoration: none;
     color: black;
-    margin-left: -400px;
-    margin-top: -10px;
-    position: absolute;
+    font-size: 20px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    
 }
 
-.image img{
-    width: 926px;
-    height: 600px;
-    margin-left: 236px ;
-    margin-top: -1400px;
-    position: absolute;
-    box-shadow: 1px 2px 20px 5px rgb(150, 22, 43) ;
 
-}
 .aboutt{
     color: rgb(15, 15, 1);
     text-align: center;
@@ -154,4 +144,14 @@ p{
     margin-top: -400px;
     position: absolute;
     border-radius: 100px;
+}
+.to{
+    margin-top: -500px;
+}
+.ot{
+    margin-top: -900px;
+}
+.infor{
+    position: absolute;
+    top: 615px;
 }

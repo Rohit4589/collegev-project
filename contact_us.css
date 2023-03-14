@@ -9,9 +9,12 @@ body{
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-color: pink;
-    
+    background-image: url('/photoss/backgroundi.jpg');
+    position: fixed;
+   
+    background-size: cover;
 }
+
 .container{
     max-width: 700px;
     padding: 30px;
@@ -22,9 +25,10 @@ h2{
     font-size: 26px;
     font-weight: 600;
     text-align: left;
-    color: #2f4f4f;
+    color:black;
     padding-bottom: 8px;
     border-bottom: solid 1px silver;
+   
 }
 .content{
     display: flex;
@@ -44,7 +48,7 @@ h2{
 }
 .input_box label,.gender{
     width: 95%;
-    color: #2f4f4f;
+    color: black;
     font-weight: bold;
     margin: 5px 0;
 }
@@ -61,7 +65,7 @@ h2{
 
 }
 .gendercategory{
-    color: gray;
+    color:black;
 }
 .gendercategory label{
  
@@ -102,8 +106,11 @@ h2{
     margin-top: -73px;
 }
 .bord{
-    height: 645px;
+    height: 695px;
     width: 900px;
-    border: solid 2px black;
+    margin-left: 300px;
   
+}
+input{
+    color: black;
 }

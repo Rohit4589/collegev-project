@@ -5,14 +5,14 @@
 }
 
 body {
-    /* background-image: url("backk.jpg"); */
+     background-image: url("/photoss/pricingback.jpg"); 
     background-color: pink;
     background-size: cover;
 }
 
 li {
     float: left;
-    margin: 8px;
+    margin: 10px;
 }
 
 li a {
@@ -32,6 +32,14 @@ ul {
     margin-left: 200px;
     margin-top: 50px;
     box-shadow: 30px black;
+    
+}
+.menu{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    padding: 10px 20px;
+    text-transform: uppercase;
 }
 
 .container .content{
@@ -45,6 +53,9 @@ ul {
     margin-left: -400px;
     margin-top: -10px;
     position: absolute;
+    font-size: 4em;
+   letter-spacing: 3px;
+
 }
 .mainn{
      margin-left: 100px;
@@ -155,7 +166,4 @@ ul {
 }
 .mainnn{
     margin-left: -10px;
-}
-.all{
-    margin-left: -100px;
 }
