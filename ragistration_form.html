@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="ragistration_form.css">
+</head>
+
+<body>
+    <div class="container">
+        <form action="" method="post">
+            <h2>ragistration form</h2>
+            <div class="content">
+                <div class="input_box">
+                    <label for="name">Full Name</label>
+                    <input type="text" placeholder="enter your full name" name="name" required>
+                </div>
+                <div class="input_box">
+                    <label for="username">User name</label>
+                    <input type="text" placeholder="enter your user name" name="uname" required>
+                </div>
+                <div class="input_box">
+                    <label for="email">Email</label>
+                    <input type="email" placeholder="enter the valid email address" name="email" required>
+                </div>
+                <div class="input_box">
+                    <label for="phone Number">Phone Number</label>
+                    <input type="tel" placeholder="enter your mobile number" name="phonenumber" required>
+                </div>
+                <div class="input_box">
+                    <label for="Password">Password</label>
+                    <input type="password" placeholder="enter your password" name="password" required>
+                </div>
+                <div class="input_box">
+                    <label for="cpassword">confirm password</label>
+                    <input type="password" placeholder="confirm password" name="c password" required>
+                </div>
+                <span class="gender">gender</span>
+                <div class="gendercategory">
+                    <input type="radio" name="gender" id="male">
+                    <label for="gender">male</label>
+                    <input type="radio" name="gender" id="female">
+                    <label for="gender">female</label>
+                    <input type="radio" name="gender" id="transgender">
+                    <label for="gender">Transgender</label>
+                </div>
+            </div>
+            <div class="alert">
+                ragistration here and take a user name and password to login
+            </div>
+            <div class="rohit">
+                <button type="submit"><a href="login.html">Ragistration</a></button>
+            </div>
+        </form>
+    </div>
+</body>
+
+</html>

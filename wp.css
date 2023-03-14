@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+ background-color: black;
+}
+.navbar li{
+    float: left;
+    margin: 15px;
+    list-style: none;
+}
+.navbar ul{
+    margin-left: 900px;
+    overflow: auto;
+    padding: 20px;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+}
+
+.front {
+    margin-top: -400px;
+    margin-left: 50px;
+}
+.save{
+    margin-top: 500px;
+}
+.main img{
+    height: 700px;
+    width: 1423px;
+}
+#home{
+    height: 1050px;
+    width: 1423px;
+    background-color: rgb(18, 2, 32);
+    
+}
+.b1{
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    margin-left: 118px;
+    margin-top: -500px;
+    
+}
+.b1 b{
+    font-size: 50px;
+    margin-left: 120px;
+    color: red;
+}

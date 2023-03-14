@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* background-image: url("backk.jpg"); */
+    background-color: pink;
+    background-size: cover;
+}
+
+li {
+    float: left;
+    margin: 8px;
+}
+
+li a {
+    color: rgb(5, 0, 0);
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+
+}
+
+.container {
+    width: 1000px;
+    height: 800px;
+    border: solid 2px white;
+    margin-left: 200px;
+    margin-top: 50px;
+    box-shadow: 30px black;
+}
+
+.container .content{
+    margin-left: 500px;
+    margin-top: 20px;
+    
+    
+}
+.container h1{
+    color: black;
+    margin-left: -400px;
+    margin-top: -10px;
+    position: absolute;
+}
+
+.mainn {
+    margin-left: 100px;
+
+}
+
+.port {
+    margin-left: 668px;
+    margin-top: -685px;
+}
+
+.p1 {
+    margin-left: 361px;
+    margin-top: 50px;
+}
+
+.p1 img {
+    height: 260px;
+    width: 269px;
+}
+
+.p2 {
+    margin-left: 361px;
+    margin-top: 30px;
+}
+
+.p2 img {
+    height: 260px;
+    width: 269px;
+}
+
+.p3 {
+    margin-left: 667px;
+    margin-top: -557px;
+}
+
+.p3 img {
+    height: 260px;
+    width: 269px;
+}
+
+.p4 {
+    margin-left: 667px;
+    margin-top: 28px;
+}
+
+.p4 img {
+    height: 260px;
+    width: 269px;
+}
+.p5 {
+    margin-left: 978px;
+    margin-top: -557px;
+}
+
+.p5 img {
+    height: 260px;
+    width: 269px;
+}
+.p6 {
+    margin-left: 978px;
+    margin-top: 28px;
+}
+
+.p6 img {
+    height: 260px;
+    width: 269px;
+}
+.all{
+    margin-left: -100px;
+}

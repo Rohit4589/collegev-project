@@ -1,0 +1,235 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: pink;
+    /* background-image: url("backk.jpg"); */
+    background-size: cover;
+}
+li{
+    float: left;
+    margin: 5px;
+}
+li a{
+    color: black;
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+
+}
+.container{
+    width: 1100px;
+    height: 800px;
+    border: solid 2px rgb(14, 1, 1);
+    margin-left: 200px;
+    margin-top: 50px;
+    box-shadow: 30px black;
+}
+.mainn{
+    margin-left: 100px;
+}
+.container .content{
+    margin-left: 500px;
+    margin-top: 20px;
+    
+    
+}
+.container h1{
+    color: black;
+    margin-left: -400px;
+    margin-top: -10px;
+    position: absolute;
+}
+.last{
+    margin-left: 100px;
+}
+a:hover{
+    color:white;
+}
+.image {
+    background-image: url('mainphoto.jpg');
+    width: 926px;
+    height: 600px;
+    background-size: cover;
+    position: absolute;
+    margin-top: -690px;
+    margin-left: 389px;
+    box-shadow: 1px 2px 20px 5px rgb(150, 22, 43) ;
+    animation: slider 15s infinite linear;
+
+    
+}
+@keyframes slider{
+   0%{
+    background-image: url('mainphoto.jpg');
+   }
+    35%{
+        background-image: url('p9.jpg');
+    }
+    75%{
+        background-image: url('p8.jpg');
+    }
+}
+.our h1{
+    color: black;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.fservice{
+    height: 300px;
+    width: 300px;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.fservice img{
+    height: 300px;
+    width: 300px;
+    border: solid 2px white;
+}
+.cservice{
+    height: 300px;
+    width: 300px;
+    margin-left: 550px;
+    margin-top: -300px;
+    position: relative;
+}
+.cservice img{
+    height: 300px;
+    border: solid 2px white;
+    width: 300px;
+}
+.dservice{
+    height: 300px;
+    width: 300px;
+    margin-left: 900px;
+    margin-top: -300px;
+    position: relative;
+}
+.dservice img{
+    height: 300px;
+    width: 300px;
+    border: solid 2px white;
+}
+.extra .quick h3{
+    color: rgb(23, 3, 3) ;
+    margin-top: 18px;
+    position: absolute;
+    margin-left: 20px;
+}
+.extra{
+    width: 1000px;
+    height: 300px;
+    border: solid 2px white;
+    margin-left: 200px;
+    margin-top: 50px;
+    box-shadow: 30px black;
+}
+.number {
+    width: 120px;
+    color: rgb(15, 1, 1);
+    margin-top: 60px;
+    margin-left: 20px;
+    position: absolute;
+    font-size: 18px;
+}
+.number a{
+    color: rgb(24, 3, 3);
+    margin-left: 5px;
+    text-decoration: none;
+}
+
+
+.extralink .el h3{
+    color: rgb(18, 1, 1) ;
+    margin-top: 18px;
+    position: absolute;
+    margin-left: 30px;
+}
+
+.num{
+    width: 138px;
+    color: rgb(33, 6, 6);
+    margin-top: 60px;
+    margin-left: 20px;
+    position: absolute;
+    font-size: 18px;
+}
+.num a{
+    color: rgb(15, 0, 0);
+    margin-left: 5px;
+    text-decoration: none;
+    width: 200px;
+}
+.extralink{
+    margin-left: 450px;
+    margin-top: -300px;
+    width: 300px;
+    position: absolute;
+    
+}
+
+.contactInfo .cl h3{
+    color: rgb(23, 2, 2) ;
+    margin-top: 18px;
+    position: absolute;
+    margin-left: 30px;
+}
+
+.num1{
+    width: 138px;
+    color: rgb(18, 2, 2);
+    margin-top: 60px;
+    margin-left: 20px;
+    position: absolute;
+    font-size: 18px;
+}
+.num1 a{
+    color: rgb(18, 2, 2);
+    margin-left: 5px;
+    text-decoration: none;
+    width: 200px;
+}
+.contactInfo{
+    margin-left: 700px;
+    margin-top: -300px;
+    width: 300px;
+    position: absolute;
+    
+}
+
+
+.followUs .fl h3{
+    color: rgb(22, 1, 1) ;
+    margin-top: 18px;
+    position: absolute;
+    margin-left: 30px;
+}
+
+.num2{
+    width: 138px;
+    color: rgb(20, 2, 2);
+    margin-top: 60px;
+    margin-left: 20px;
+    position: absolute;
+    font-size: 18px;
+}
+.num2 a{
+    color: rgb(22, 2, 2);
+    margin-left: 5px;
+    text-decoration: none;
+    width: 200px;
+}
+.followUs{
+    margin-left: 950px;
+    margin-top: -300px;
+    width: 300px;
+    position: absolute;
+    
+}
+.all{
+    margin-left: -100px;
+}

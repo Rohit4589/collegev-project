@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* background-image: url("backk.jpg"); */
+    background-color: pink;
+    background-size: cover;
+}
+
+li {
+    float: left;
+    margin: 8px;
+}
+
+li a {
+    color: rgb(20, 1, 1);
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+
+}
+
+.container {
+    width: 1000px;
+    height: 800px;
+    border: solid 2px rgb(25, 1, 1);
+    margin-left: 200px;
+    margin-top: 50px;
+    box-shadow: 30px black;
+}
+
+.container .content{
+    margin-left: 500px;
+    margin-top: 20px;
+    
+    
+}
+.container h1{
+    color: black;
+    margin-left: -400px;
+    margin-top: -10px;
+    position: absolute;
+}
+.mainn{
+     margin-left: 100px;
+}
+.first{
+    height: 422px;
+    width: 261px;
+    border: 2px solid black;
+    margin-left: 349px;
+    margin-top: -634px;
+}
+.first h2{
+    margin-left: 71px;
+    margin-top: 19px;
+}
+
+.amount{
+    margin-left: 22px;
+    margin-top: 20px;
+    height: 20px;
+    width: 216px;
+    border: solid 1px palevioletred;
+    padding: 30px;
+    background-color: rgb(248, 43, 77);
+}
+.amount p{
+    margin-left: 51px;
+    margin-top: -10px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+.f1{
+    width: 256px;
+    margin-left: 15px;
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+
+.second{
+    height: 422px;
+    width: 261px;
+    border: 2px solid black;
+    margin-left: 670px;
+    margin-top: -422px;
+}
+.second h2{
+    margin-left: 55px;
+    margin-top: 19px;
+}
+
+.amountt{
+    margin-left: 22px;
+    margin-top: 20px;
+    height: 20px;
+    width: 216px;
+    border: solid 1px palevioletred;
+    padding: 30px;
+    background-color: rgb(248, 43, 77);
+}
+.amountt p{
+    margin-left: 51px;
+    margin-top: -10px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.f2{
+    width: 256px;
+    margin-left: 15px;
+    font-size: 25px;
+    margin-top: 10px;
+    position: absolute;
+}
+
+.third{
+    height: 422px;
+    width: 261px;
+    border: 2px solid black;
+    margin-left: 986px;
+    margin-top: -422px;
+}
+.third h2{
+    margin-left: 60px;
+    margin-top: 19px;
+}
+
+.amounttt{
+    margin-left: 22px;
+    margin-top: 20px;
+    height: 20px;
+    width: 216px;
+    border: solid 1px palevioletred;
+    padding: 30px;
+    background-color: rgb(248, 43, 77);
+}
+.amounttt p{
+    margin-left: 51px;
+    margin-top: -10px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.f3{
+    width: 256px;
+    margin-left: 15px;
+    font-size: 25px;
+    margin-top: 10px;
+    position: absolute;
+}
+.mainnn{
+    margin-left: -10px;
+}
+.all{
+    margin-left: -100px;
+}

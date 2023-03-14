@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    /* background-image: url("backk.jpg"); */
+    background-color: pink;
+    background-size: cover;
+    height: 1600px;
+    
+    
+}
+.mainn{
+    margin-left: 100px;
+}
+
+li{
+    float: left;
+    margin: 8px;
+}
+li a{
+    color: rgb(17, 14, 14);
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+
+}
+.container{
+    width: 1000px;
+    height: 1500px;
+    border: solid 2px white;
+    margin-left: 200px;
+    margin-top: 50px;
+    box-shadow: 30px black;
+}
+.container .content{
+    margin-left: 500px;
+    margin-top: 20px;
+    
+    
+}
+.container h1{
+    color: black;
+    margin-left: -400px;
+    margin-top: -10px;
+    position: absolute;
+}
+
+.image img{
+    width: 926px;
+    height: 600px;
+    margin-left: 236px ;
+    margin-top: -1400px;
+    position: absolute;
+    box-shadow: 1px 2px 20px 5px rgb(150, 22, 43) ;
+
+}
+.aboutt{
+    color: rgb(15, 15, 1);
+    text-align: center;
+    margin-top: -750px;
+    position: absolute;
+    margin-left: 550px;
+}
+p{
+    height: 300px;
+    width: 400px;
+    margin-left:-100px;
+    margin-top: 25px;
+}
+.aboutt h1{
+    margin-left: -50px;
+}
+.buttan{
+    margin-top: -590px;
+    margin-left:620px ;
+    
+}
+.buttan button{
+    padding: 10px;
+}
+.team1 img{
+    height: 200px;
+    width: 200px;
+    margin-left: 50px;
+    border-radius: 100px;
+    margin-top: 21px;
+    position: absolute;
+    
+}
+.team{
+    margin-left: 570px;
+    margin-top: 40px;
+}
+.fram{
+    border: 2px black solid;
+    height: 424px;
+    width: 300px;
+    margin-left: 331px;
+    
+}
+.containn{
+    margin-top: 50px;
+}
+.team2 img{
+    height: 200px;
+    width: 200px;
+    margin-left: 50px;
+    border-radius: 100px;
+    margin-top: 21px;
+    position: absolute;
+    
+}
+
+.framm{
+    border: 2px black solid;
+    height: 285px;
+    width: 300px;
+    margin-left: 370px;
+    
+}
+.contain{
+    margin-top: -290px;
+    margin-left: 400px;
+}
+
+.all{
+    margin-left: -100px;
+}
+.info{
+    margin-left: 250px;
+    margin-top: 300px;
+    font-size: 20px;
+}
+.infor{
+    margin-left: 800px;
+    margin-top: -100px;
+    font-size: 20px;
+}
+.my img{
+    height: 200px;
+    width: 200px;
+    margin-left: 300px;
+    margin-top: -400px;
+    position: absolute;
+    border-radius: 100px;
+}
+.myy img{
+    height: 200px;
+    width: 200px;
+    margin-left: 850px;
+    margin-top: -400px;
+    position: absolute;
+    border-radius: 100px;
+}

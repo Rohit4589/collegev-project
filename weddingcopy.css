@@ -1,0 +1,303 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+ background-color: black;
+ width: 1423px;;
+}
+.navbar li{
+    float: left;
+    margin: 15px;
+    list-style: none;
+}
+.navbar ul{
+    margin-left: 900px;
+    overflow: auto;
+    padding: 20px;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+}
+.front h1{
+    margin-top: 200px;
+    margin-left: 50px;
+    position: absolute;
+}
+.image img{
+          height: 900px;
+          width: 1422px;
+}
+#home{
+    height: 400px;
+    width: 1422px;
+    background-color: rgb(18, 2, 32);
+    
+}
+.b1{
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    margin-left: 118px;
+    margin-top: -350px;
+    
+}
+.b1 b{
+    font-size: 50px;
+    margin-left: 120px;
+    color: red;
+}
+.b2{
+    color: brown;
+    margin-left: 565px;
+    height: 300px;
+    width: 300px;
+    margin-top: -300px;
+    background-color: white;
+}
+.b1 h1{
+    margin-left: 70px;
+}
+
+.b1 p{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.b2 b{
+    font-size: 50px;
+    margin-left: 120px;
+    color: red;
+}
+.b2 h1{
+    margin-left: 50px;
+    color: black;
+}
+.b2 p{
+    margin-top: 30px;
+    text-align: center;
+    color: black;
+}
+.b3 b{
+    font-size: 50px;
+    margin-left: 120px;
+    color: red;
+}
+
+.b3{
+    color: chartreuse;
+    margin-left:1000px ;
+    margin-top: -300px;
+    background-color: #fff;
+    height: 300px;
+    width: 300px;
+}
+.b3 h1{
+    margin-left: 15px;
+    color: black;
+}
+.b3 p{
+    margin-top: 30px;
+    text-align: center;
+    color: black;
+}
+.b1 .p1{
+      border: solid 1px black;
+      width: 100px;
+      margin-left: 85px;
+      padding: 10px;
+      margin-top: 18px;
+
+}
+.b2 .p1{
+    border: solid 1px black;
+    width: 100px;
+    margin-left: 85px;
+    padding: 10px;
+    margin-top: 18px;
+    
+
+}
+.b3 .p1{
+    margin-top: 18px;
+    border: solid 1px black;
+    width: 100px;
+    margin-left: 85px;
+    padding: 10px;
+
+}
+.b1 a{
+    text-decoration: none;
+}
+.b2 a{
+    text-decoration: none;
+}.b3 a{
+    text-decoration: none;
+}
+pr{
+     color: crimson;
+}
+#vendor{
+    height: 800px;
+    width: 1422px;
+    background-color: rgb(18, 2, 32);
+}
+.name h1{
+    color: #fff;
+    margin-left: 550px;
+    margin-top: 50px;
+}
+
+
+
+
+
+.rohit img{
+    height: 300px;
+    width: 350px;
+    margin-top: 80px;
+    margin-left: 50px;
+    border: solid 5px white;   
+}
+.rohit img  :hover{
+         opacity: 0.8;
+}
+.rohitt img{
+    height: 300px;
+    width: 350px;
+    margin-top: 80px;
+    margin-left: 100px;
+    border: solid 5px white;
+}
+.rohittt img{
+    height: 300px;
+    width: 350px;
+    margin-top: 80px;
+    margin-left: 100px;
+    border: solid 5px white;
+}
+.r img{
+    height: 300px;
+    width: 350px;
+    margin-top: 20px;
+    margin-left: 50px;   
+    border: solid 5px white;
+}
+.r1 img{
+    height: 300px;
+    width: 350px;
+    margin-top: 20px;
+    margin-left: 100px;
+    border: solid 5px white;
+}
+.r2 img{
+    height: 300px;
+    width: 350px;
+    margin-top: 20px;
+    margin-left: 100px;
+    border: solid 5px white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Clients{
+    height: 1600px;
+    width: 1422px;
+    background-color: rgb(18, 2, 32);
+}
+.cl h1{
+    color: #fff;
+    margin-left: 550px;
+    
+}
+
+.pc img{
+    height: 300px;
+    width: 400px;
+    margin-left: 100px;
+    margin-top: 100px;
+    border: #fff solid 20px;
+    border-radius: 10px;
+}
+.virat h2{
+    color: #fff;
+    margin-left: 100px;
+    margin-top: 30px;
+
+}
+.viratd p{
+    color: #fff;
+    text-align: center;
+    height: 100px;
+    width: 400px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.rtt img{
+    margin-left: 800px;
+    margin-top: -530px;
+    display: block;
+}
+.rt h2{
+    color: #fff;
+    margin-left: 800px;
+    margin-top: 30px;
+}
+.ritesh p{
+    margin-left: 800px;
+    margin-top: 20px;
+    color: white;
+    height: 100px;
+    width: 400px;
+    
+}
+
+
+
+
+
+.container{
+    height: 300px;
+    width: 350px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+.container img{
+    height: 300px;
+    width: 350px;
+    margin-left: 200px;
+}
+.container  .overlay{
+    position: absolute;
+    opacity: 0;
+    transition: opacity 0.4s ease-out;
+    background: black;
+    cursor: pointer;
+}
+.container .content pr{
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: aqua;
+    text-align: center;
+
+
+}
+.container :hover .overlay{
+    opacity: 0.8;
+}

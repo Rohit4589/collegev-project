@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar li{
+    float: left;
+    margin: 15px;
+    list-style: none;
+   
+    
+}
+.navbar {
+    background-color: red;
+    padding: 15px;
+    margin-left: 0px;
+    
+    
+}
+.navbar a{
+    color: white;
+    font-size: 17px;
+    text-decoration: none;
+
+}
+.navbar ul{
+    overflow: auto;
+    margin-left: 900px;
+}
+
+body{
+    /* background-image: url('1photo.jpg'); */
+    background-color: pink;
+    background-size: cover;
+}
+
+.homename h2{
+     color: greenyellow;
+     position: absolute;
+     margin-top: 200px;
+}
+.homename h1{
+    color: lawngreen;
+    position: absolute;
+    margin-top: 230px;
+}
+.homename p{
+    color: white;
+    position: absolute;
+    margin-top: 290px;
+    margin-left: 70px;
+    border: solid black 2px;
+    padding: 5px;
+}
+
+
